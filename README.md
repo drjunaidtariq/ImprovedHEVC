@@ -1,4 +1,4 @@
-# Improved HEVC Encoding via Efficient Intra-Mode Estimation using Hadamard Cost
+# Enhancing HEVC Efficiency: A Novel Approach to Intra-Mode Estimation through Hadamard Cost Analysis.
 Steps: <br>
 (1) Download the HEVC test Model (HM) platform from https://hevc.hhi.fraunhofer.de/. <br>
 (2) Replace the "TAppEncoder" folder of HM by this folder. <br>
